@@ -1,25 +1,31 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter, Route } from 'react-router-dom';
+import Navbar from './components/Navbar/Navbar';
+import landingPage from './components/landing-page/landingPage';
+import learnable from './components/learnable/learnable';
+import learnableSD from './components/learnable-SD/learnableSD';
+import learnablePD from './components/learnable-PD/learnablePD';
+import Apply from './components/AYK/Apply';
+import Faq from './components/FAQ/Faq';
+import Journal from './components/journal/Journal';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <div className="App">
+        <Navbar />
+        <Route exact path="/" component={landingPage}/>
+        <Route exact path="/learnable" component={learnable}/>
+        <Route path="/learnable/softwaredeveloper" component={learnableSD}/>
+        <Route path="/learnable/productdesigner" component={learnablePD} />
+        <Route path="/learnable/apply" component={Apply} />
+        <Route path="/learnable/journal" component={Journal} />
+        <Route path="/learnable/faq" component={Faq} />
+
+        
+      </div>
+    </BrowserRouter>
   );
 }
 

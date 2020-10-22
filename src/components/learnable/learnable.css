@@ -1,0 +1,400 @@
+.coming-soon{
+    background-color: #EAC435;
+    height: 150px;
+    position: relative;
+    bottom: 30px;
+    
+}
+.coming-sub{
+    position: relative;
+    height: 130px;
+    width: 460px;
+    top: 15px;
+    left:50px;
+    color: #17255A;  
+}
+.coming-soon-head{
+    color: #17255A;
+    position: inherit;
+    top: 30px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.coming-soon-text{
+    position: inherit;
+    font-size: 12px;
+    
+}
+.coming-sub-2{
+    
+    position: relative;
+    left: 800px;
+    bottom: 120px;
+    height: 130px;
+    width: 400px;
+}
+.click-link{
+    color: #17255A;
+    font-size: 12px;
+}
+.brochure{
+    font-weight: 600;
+    font-size: 30px;
+    color: #17255A;
+}
+.everything{
+    color: #17255A;
+    font-weight: 900;
+    font-size: 56px;
+    width: 120px;
+    line-height: 90.19%;
+    position: relative;
+    left: 76px;
+}
+.everything-text{
+    width: 250px;
+    font-size: 14px;
+    color: #17255A;
+    position: relative;
+    left: 80px;
+}
+.dev-circle{
+    height: 180px;
+    width: 180px;
+    border-radius: 360px;
+    background-color:  #03CEA4;
+    color: #17255A;
+    position: relative;
+    left: 850px;
+}
+.prod-circle{
+    height: 180px;
+    width: 180px;
+    border-radius: 360px;
+    background-color:  #17255A;
+    color: white ;
+    position: relative;
+    left: 1050px;
+    bottom: 170px;
+}
+.dev-link{
+    position: relative;
+    top: 55px;
+    font-weight: 700;
+    color: #273043;
+}
+.prod-link{
+    position: relative;
+    top: 55px;
+    font-weight: 700;
+    color: white;
+}
+.expect{
+    font-size: 13px;
+    position: relative;
+    top: 60px;
+}
+.unnamed-div{
+    background-color: #EEEEEE;
+    height: 400px;
+}
+.boygirl{
+    position: relative;
+    bottom: 200px;
+    width: 1000px;
+    left: 173px;
+}
+.great-people{
+    height: 600px;
+
+}
+.great-text{
+    color: #17255A;
+    font-size: 24px;
+    font-weight: 800;
+    position: relative;
+    top: 140px;
+    right: 390px;
+}
+.great-para{
+    position: relative;
+    top: 150px;
+    left: 110px;
+    width: 400px;
+}
+.smilingboy{
+    background-color: #03CEA4;
+    border-radius: 360px;
+    width: 350x;
+    height: 350px;
+    position: relative;
+    left: 300px;
+    bottom: 150px;
+}
+.unusual-div{
+    background-color: #EEEEEE;
+    height: 440px;
+    position: relative;
+}
+.learning{
+    width: 390px;
+    height: 330px;
+    position: relative;
+    right: 400px;
+    top: 60px;
+}
+.unusual-head{
+    color: #273043;
+    position: relative;
+    bottom: 300px;
+    width: 500px;
+    left: 700px;
+    font-size: 35px;
+    font-weight: 800;
+}
+.unusual-text{
+    color: #273043;
+    width: 500px;
+    position: relative;
+    left: 760px;
+    bottom: 300px;
+}
+.for-dev{
+    font-size: 11px;
+    position: relative;
+    top: 90px;
+    right: 400px;
+}
+.rightway-head{
+    color: #273043;
+    position: relative;
+    width: 400px;
+    top: 100px;
+    left: 100px;
+    font-size: 28px;
+    font-weight: 800;
+}
+.right-way-text{
+    color: #273043;
+    position: relative;
+    width: 500px;
+    top: 100px;
+    text-align: left;
+    left: 100px;
+}
+.grid-one{
+    position: relative;
+    width: 450px;
+    left: 800px;
+    bottom: 150px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.javascript{
+    background-color: #17255A;
+    /* margin-top: 30px; */
+}
+.git{
+    background-color: #03CEA4;
+}
+.react{
+    background-color: #EAC435;
+}
+.node{
+    background-color: #2D1E2F;
+}
+.mongodb{
+    background-color: #273043;
+}
+.heroku{
+    background-color: #F5772F;
+}
+.design-div{
+    background-color: #EEEEEE;
+    height: 600px;
+}
+.dif-design{
+    position: relative;
+    left: 90px;
+    top: 60px;
+    width: 450px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.general-grid{
+    height: 180px;
+    width: 150px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
+.copy{
+    background-color: #E13F29;
+}
+.for-designers{
+    color: #273043;
+    font-size: 11px;
+    position: absolute;
+    top: 3390px;
+    left: 800px;
+}
+.dif-design-head{
+    position: absolute;
+    font-size: 27px;
+    font-weight: 800;
+    top: 3400px;
+    left: 800px;
+    color: #273043;
+}
+.dif-design-text{
+    width: 300px;
+    position: relative;
+    left: 800px;
+    bottom: 400px;
+    text-align: left; 
+    color: #273043;
+}
+.design-learn{
+color: #03CEA4;
+position: relative;
+bottom: 380px;
+left: 165px;
+}
+.eligible{
+    color: #273043;
+    font-size: 23px;
+    font-weight: 700;
+    position: relative;
+    right: 470px;
+    top: 90px;
+}
+.eligible-text{
+    color: #273043;
+    width: 400px;
+    text-align: left;
+    position: relative;
+    left: 120px;
+    top: 100px;
+}
+.students{
+    width: 440px;
+    height: 380px;
+    position: relative;
+    bottom: 250px;
+    left: 300px;
+}
+.culture-div{
+    background-color: #F5772F;
+    position: relative;
+    bottom: 150px;
+    height: 550px;
+
+}
+.culture{
+    width: 440px;
+    height: 380px;
+    position: relative;
+    top: 90px;
+    right: 350px;
+}
+.culture-head{
+    color: white;
+    position: absolute;
+    left: 830px;
+    bottom: 350px;
+}
+.culture-text{
+    width: 400px;
+    position: relative;
+    color: white;
+    left: 750px;
+    bottom: 200px;
+    text-align: left;
+}
+.fun-learning{
+    color: #273043;
+    position: relative;
+    right: 470px;
+    bottom: 30px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.fun-text{
+    width: 400px;
+    text-align: left;
+    left: 100px;
+    bottom: 30px;
+    position: relative;
+    color: #273043;
+
+}
+.expert-learn{
+    background-color: #EEEEEE;
+    height: 450px;
+}
+.expert-head{
+    color: #273043;
+    font-size: 35px;
+    font-weight: 700;
+    position: relative;
+    width: 250px;
+    left: 800px;
+    top: 150px;
+}
+.expert-text{
+    width: 400px;
+    position: relative;
+    font-size: 15px;
+    left: 750px;
+    top: 120px;
+    text-align: left;
+}
+.not-classroom{
+    text-align: left;
+
+    width: 500px;
+    position: relative;
+    font-size: 30px;
+    font-weight: 700;
+    left: 90px;
+    top: 40px;
+    color: #273043;
+}
+.notclassroom-text{
+    width: 500px;
+    position: relative;
+    color: #273043;
+    text-align: left;
+    left: 90px;
+    top: 40px;
+}
+.knowledge{
+    height:400px ;
+    width: 400px;
+    position: relative;
+    top: 90px;
+    right: 350px;
+}
+.knowledge-div{
+    background-color: #17255A;
+    height: 600px;
+    position: relative;
+    
+}
+.knowledge-head{
+    font-size: 30px;
+    font-weight: 700;
+    position: absolute;
+    color: white;
+    left: 800px;
+    bottom: 390px;
+}
+.knowledge-text{
+    width: 500px;
+    color: white;
+    position: relative;
+    left: 800px;
+    bottom: 200px;
+    text-align: left;
+}

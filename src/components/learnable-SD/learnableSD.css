@@ -1,0 +1,60 @@
+.software-dev{
+    font-size: 60px;
+    font-weight: 900;
+    text-align: left;
+    line-height: 60px;
+    width: 400px;
+    color: #17255A;
+    position: relative;
+    left: 90px;
+}
+.dev-pic{
+    position: relative;
+    bottom: 300px;
+    left: 390px;
+    width: 350.69px;
+    height: 350.96px;
+    background-color: #03CEA4;
+    border-radius: 360px;
+}
+.dev-text{
+    width: 500px;
+    position: relative;
+    text-align: left;
+    font-size: 14px;
+    line-height: 24px;
+    bottom: 200px;
+    left: 90px;
+    color: #17255A;
+
+}
+.quote{
+    color: #03CEA4;
+    width: 500px;
+    position: relative;
+    left: 110px;
+    bottom: 50px;
+    text-align: left;
+    font-size: 35px;
+    font-weight: 800;
+}
+.coding{
+    width: 624px;
+    height: 466px;
+}
+.expect{
+    font-size: 20px;
+    font-weight: 700;
+    color: #17255A;
+    position: relative;
+    right: 110px;
+}
+.expect-text{
+    width: 500px;
+    position: relative;
+    top: 100px;
+    left: 480px;
+    text-align: left;
+    color: #273043;
+    font-size: 14px;
+}

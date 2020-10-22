@@ -1,0 +1,91 @@
+.intouch-div{
+    background-color: #EAC435;
+    color: #273043;
+    position: relative;
+       height: 170px;
+       top: 180px;
+    width: 1200px;
+    left: 140px;
+}
+.stay-up-text{
+    width: 400px;
+    font-size: 30px;
+    font-weight: 900;
+}
+.email-div-footer{
+    position: relative;
+    width: fit-content;
+    left: 700px;
+    bottom: 70px;
+}
+.email-footer{
+    position: relative;
+    border: none;
+    outline: none;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color: #EAC435;
+}
+.subscribe-footer{
+    position: relative;
+    padding: 10px 10px;
+    background-color: #EAC435;
+    left: 80px;
+    color: #273043;
+}
+.main-footer{
+    position: relative;
+    top: 220px;
+}
+.footer-list{
+    display: block;
+    position: relative;
+    right: 450px;
+    color: #273043;
+}
+.address{
+    width: 250px;
+    position: relative;
+    left: 500px;
+    bottom: 200px;
+    color: #273043;
+
+}
+.footer-pic{
+    Width: 148px;
+Height: 148px;
+position: relative;
+bottom: 350px;
+left: 250px;
+}
+.footer-text{
+    width: 200px;
+    position: relative;
+    color: #273043;
+    text-align: left;
+    left: 1100px;
+    bottom: 500px;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 150px;
+    right: 550px;
+    font-size: 29px;
+}
+.copyright{
+    position: relative;
+    top: 200px;
+    right: 550px;
+    color: #273043;
+}
+.statment{
+    position: relative;
+    top: 160px;
+    right: 380px;
+    color: #273043;
+    text-decoration: none;
+}

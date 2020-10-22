@@ -1,0 +1,89 @@
+.journal-intro{
+    width: 1200px;
+    height: 600px;
+    position: relative;
+    left: 80px;
+    background-color: #EEEEEE;
+}
+.journal{
+    color: #17255A;
+    font-size: 60px;
+    font-weight: 700;
+    position: relative;
+    top: 170px;
+    right: 300px;
+
+}
+.categories{
+    background-color: transparent;
+    position: relative;
+    color: #17255A;
+    padding: 5px;
+    left: 310px;
+    bottom: 300px;
+}
+.setup2{
+    position: relative;
+    top: 360px;
+    right: 280px;
+    width: 530px;
+    height: 374px;
+}
+.intro-inspire{
+    color: #03CEA4;
+    position: relative;
+    font-size: small;
+    left: 60px;
+    top: 40px;
+}
+.learn-design{
+    width: 400px;
+    color: #17255A;
+    font-size: 40px;
+    font-weight: 700;
+    position: relative;
+    text-align: left;
+    left: 870px;
+}
+.lorem{
+    width: 400px;
+    position: relative;
+    color: #17255A;
+    left: 880px;
+    font-size: small;
+    top: 30px;
+    text-align: left;
+}
+.row{
+    position: relative;
+    top: 100px;
+}
+.pics{
+    width: 260px;
+    height: 260px;
+}
+.pro-like{
+    width: 70%;
+    text-align: left;
+    color: #273043;
+    font-weight: 700;
+    font-size: 30px;
+    position: relative;
+    left: 25px;
+}
+.green-inspire{
+    font-size: 13px;
+     position: relative;
+     right: 100px;
+    color: #03CEA4;
+    text-decoration: underline;
+}
+.column{
+     float: left;
+     width: 25%;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }

@@ -1,0 +1,11 @@
+.list{
+    background-color: #17255A;
+    color: white;
+    height: 38px;
+}
+.subnav .active{
+    color: yellow;
+}
+.sublink{
+    color: white;
+}

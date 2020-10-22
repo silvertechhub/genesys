@@ -1,0 +1,74 @@
+.typing{
+    position: absolute;
+    bottom: 300px;
+    left: 780px;
+    bottom: 240px;
+    width: 440px;
+    height: 230px
+}
+.apply-text{
+    width: 500px;
+    position: relative;
+    text-align: left;
+    font-size: 14px;
+    line-height: 24px;
+    top: 100px;
+    left: 90px;
+    color: #17255A;
+
+}
+.setup{
+    width: 624px;
+    height: 466px;
+    position: relative;
+    top: 180px;
+}
+.getin{
+    font-size: 20px;
+    font-weight: 700;
+    color: #17255A;
+    position: relative;
+    right: 110px;
+    top: 230px;
+}
+.getin-text{
+    width: 500px;
+    position: relative;
+    top: 250px;
+    left: 480px;
+    text-align: left;
+    color: #273043;
+    font-size: 14px;
+}
+.online{
+    font-size: 20px;
+    font-weight: 700;
+    color: #17255A;
+    position: relative;
+    right: 110px;
+    top: 260px;
+}
+.phone-call{
+    font-size: 20px;
+    font-weight: 700;
+    color: #17255A;
+    position: relative;
+    right: 90px;
+    top: 260px;
+}
+.final{
+    font-size: 20px;
+    font-weight: 700;
+    color: #17255A;
+    position: relative;
+    right: 110px;
+    top: 260px;
+}
+.get-in{
+    font-size: 20px;
+    font-weight: 700;
+    color: #17255A;
+    position: relative;
+    right: 165px;
+    top: 260px;
+}

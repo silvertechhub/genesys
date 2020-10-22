@@ -1,0 +1,396 @@
+.intro-text{
+    color: #17255A;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 110.19%;
+/* or 44px */
+
+display: flex;
+/* align-items: center; */
+text-transform: capitalize;
+position: absolute;
+width: 500px;
+height: 157px;
+left: 100px;
+top: 120px;
+}
+
+.rider{
+    position: absolute;
+width: 400px;
+height: 74px;
+left: 100px;
+top: 277px;
+/* Subtitle 1 */
+font-family: Roboto;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+letter-spacing: 0.15px;
+color: #273043;
+}
+
+.young-people{
+    position: absolute;
+width: 1100px;
+height: 400px;
+left: 240px;
+top: 400px;
+
+}
+.young-man{
+    position: absolute;
+width: 440px;
+height: 380px;
+left: 50px;
+top: 1000px;
+}
+.learnable-header{
+    position: absolute;
+width: 550px;
+height: 44px;
+left: 670px;
+top: 1110px;
+font-family: Roboto;
+font-weight: 900;
+font-size: 40px;
+line-height: 110.19%;
+/* identical to box height, or 44px */
+
+display: flex;
+align-items: center;
+text-transform: capitalize;
+}
+.learnable-text{
+    position: absolute;
+width: 550px;
+height: 41px;
+left: 670px;
+top: 1194px;
+font-family: Nunito;
+font-size: 15px;
+line-height: 24px;
+letter-spacing: 0.25px;
+}
+.learn-more{
+   position: absolute;
+width: 158px;
+height: 17px;
+left: 650px;
+top: 1300px;
+font-family: Nunito;
+font-size: 15px;
+line-height: 110.19%;
+/* identical to box height, or 17px */
+letter-spacing: 1.25px;
+text-decoration-line: underline;
+text-transform: uppercase;
+color: #03CEA4;
+}
+.agora-div{
+    position: absolute;
+width: 1345px;
+height: 480px;
+left: 0px;
+top: 1400px;
+background-color:  #EEEEEE
+}
+.agora{
+    position: relative;
+width: 440px;
+height: 380px;
+left: 400px;
+top: 50px;
+}
+.agora-header{
+position: relative;
+width: 550px;
+height: 44px;
+left: 80px;
+bottom: 270px;
+font-family: Roboto;
+font-weight: 900;
+font-size: 40px;
+line-height: 110.19%;
+/* identical to box height, or 44px */
+display: flex;
+align-items: center;
+text-transform: capitalize;
+color: #273043;
+}
+.agora-text{
+    position: relative;
+width: 550px;
+height: 41px;
+left: 40px;
+bottom: 280px;
+font-family: Nunito;
+font-size: 15px;
+line-height: 24px;
+/* or 162% */
+letter-spacing: 0.25px;
+color: #273043;
+}
+.agora-learn{
+position: relative;
+width: 108px;
+height: 17px;
+right: 540px;
+bottom: 265px;
+font-family: Nunito;
+font-weight: 600;
+font-size: 15px;
+line-height: 110.19%;
+/* identical to box height, or 17px */
+letter-spacing: 1.25px;
+text-decoration-line: underline;
+text-transform: uppercase;
+/* Carribean Green */
+
+color: #03CEA4;
+}
+.start-zone{ 
+position: absolute;
+width: 440px;
+height: 380px;
+left: 35px;
+top: 1950px;
+}
+.start-header{
+    position: absolute;
+width: 550px;
+height: 44px;
+left: 790px;
+top: 2000px;
+font-family: Roboto;
+font-weight: 900;
+font-size: 40px;
+line-height: 110.19%;
+/* identical to box height, or 44px */
+display: flex;
+align-items: center;
+text-transform: capitalize;
+color: #273043;
+}
+.start-text{
+    position: absolute;
+width: 550px;
+height: 41px;
+left: 775px;
+top: 2080px;
+font-family: Nunito;
+font-size: 15px;
+line-height: 24px;
+letter-spacing: 0.25px;
+color: #273043;
+}
+.how{
+    
+position: absolute;
+width: 108px;
+height: 17px;
+left: 790px;
+top: 2150px;
+font-family: Nunito;
+font-weight: 600;
+font-size: 10px;
+line-height: 110.19%;
+letter-spacing: 1.25px;
+text-decoration-line: underline;
+text-transform: uppercase;
+color: #03CEA4;
+}
+.other-div{
+    position: absolute;
+    width: 1345px;
+    height: 480px;
+    left: 0px;
+    top:2400px;
+    background-color:  #EEEEEE
+}
+.other-text{
+    position: relative;
+    width: 490px;
+    height: 132px;
+    left: 700px;
+    top: 125px;
+    font-family: Roboto;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 110.19%;    
+    letter-spacing: -0.5px;
+    color: #17255A;
+}
+.people{
+    position: relative;
+width: 140px;
+height: 140px;
+right: 250px;
+bottom:140px;
+}
+.boy{
+position: relative;
+width: 140px;
+height: 140px;
+right: 490px;
+top:30px;
+}
+.girls{
+    position: relative;
+width: 140px;
+height: 140px;
+right: 510px;
+top: 30px;
+}
+.Genesys-Ignite{
+position: relative;
+width: 157px;
+height: 74px;
+right: 230px;
+bottom: 200px;
+font-family: Roboto;
+font-weight: 900;
+font-size: 16px;
+line-height: 110.19%;
+letter-spacing: 0.25px;
+text-decoration-line: underline;
+color: #17255A;
+}
+.CodeVille{
+    position: relative;
+width: 140px;
+height: 26px;
+right: 600px;
+top: 55px;
+font-family: Roboto;
+font-weight: 900;
+font-size: 16px;
+line-height: 110.19%;
+text-decoration-line: underline;
+color: #17255A;
+}
+.pink-summer{
+    
+position: relative;
+width: 148px;
+height: 47px;
+right: 660px;
+top: 55px;
+font-family: Roboto;
+font-weight: 900;
+font-size: 16px;
+line-height: 110.19%;
+text-decoration-line: underline;
+color: #17255A;
+}
+.best-team{
+    position: absolute;
+width: 1345px;
+height: 440px;
+left: 0px;
+top: 2885px;
+background: #17255A;
+}
+.red-hands{
+    position: relative;
+width: 440px;
+height: 380px;
+right: 350px;
+top: 40px;
+}
+.best-header{
+    position: relative;
+width: 548.95px;
+height: 44px;
+left: 791.05px;
+bottom: 240px;
+font-family: Roboto;
+font-weight: 900;
+font-size: 30px;
+line-height: 110.19%;
+display: flex;
+align-items: flex-end;
+text-transform: capitalize;
+color: #EEEEEE;
+}
+.best-text{
+    position: relative;;
+width: 409px;
+height: 47px;
+left: 791px;
+bottom: 250px;
+font-family: Nunito;
+font-size: 10px;
+line-height: 28px;
+letter-spacing: 0.5px;
+color: #EEEEEE
+}
+.see-team{
+    position: relative;
+
+height: 17px;
+left: 180px;
+bottom: 235px;
+font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 110.19%;
+letter-spacing: 1.25px;
+text-decoration-line: underline;
+text-transform: uppercase;
+color: #03CEA4;
+}
+.stay-up{
+    position: absolute;
+    height: 250px;
+left: 5.98%;
+right: 0%;
+top: 3325px;
+bottom: 0%;
+background: #03CEA4;
+}
+.stay-up-text{
+    
+position: relative;
+width: 300px;
+left: 9.55%;
+top: 31.7%;
+font-family: Roboto;
+font-weight: 900;
+font-size: 22px;
+line-height: 110.19%;
+display: flex;
+letter-spacing: 0.25px;
+text-transform: capitalize;
+color: #273043;
+}
+ .email-div{
+    position: relative;
+    width: fit-content;
+    left: 700px;
+} 
+.email{
+    position: relative;
+    border: none;
+    outline: none;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color: #03CEA4;;
+}
+.subscribe{
+    position: relative;
+    padding: 10px 10px;
+    background-color: #03CEA4;
+    left: 80px;
+}
+.privacy{
+    position: relative;
+    right: 68px;
+    font-size: 13px;
+    color: #273043; 
+}

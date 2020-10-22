@@ -1,0 +1,23 @@
+.prod-pic{
+    background-color: #F5772F;
+    position: relative;
+    bottom: 300px;
+    left: 390px;
+    width: 350.69px;
+    height: 350.96px;
+    border-radius: 360px;
+}
+.quote-prod{
+    color: #F5772F;
+    width: 500px;
+    position: relative;
+    left: 110px;
+    bottom: 50px;
+    text-align: left;
+    font-size: 35px;
+    font-weight: 800;
+}
+.design-pic{
+    width: 624px;
+    height: 466px;
+}
